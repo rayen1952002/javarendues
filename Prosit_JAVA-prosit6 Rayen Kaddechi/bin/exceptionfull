@@ -1,0 +1,8 @@
+import java.Exception;
+public class zooisfullexception extends Exception{
+
+    public zooisfullexception()  {
+        super ();
+    }
+    
+}
